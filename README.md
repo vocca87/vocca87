@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vocca87
+- 👋 Hi, I’m Alexander 
 - 👀 I’m interested in creative coding
 - 🌱 I’m currently learning c++, c#
 - 💞️ I’m looking to collaborate on 
